@@ -1,0 +1,54 @@
+[33mcommit 81de51ed6a98691f4f6386062786d4bebd430900[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Adriano Soriano <adriano.soriano@gruposkill.com.br>
+Date:   Fri May 24 09:42:59 2019 -0300
+
+    g.txt
+
+[33mcommit 37fb4847ec3fc2b5159011df373e197fff7f6022[m
+Merge: 6dae035 2b48523
+Author: Adriano Soriano <adriano.soriano@gruposkill.com.br>
+Date:   Fri May 24 09:05:25 2019 -0300
+
+    Merge branch 'feature2'
+
+[33mcommit 6dae035b4c913a013d4e4cf08d53199c1e9ba7ef[m
+Author: Adriano Soriano <adriano.soriano@gruposkill.com.br>
+Date:   Fri May 24 09:02:34 2019 -0300
+
+    f.txt
+
+[33mcommit 2b4852303ebf4f1d6a1cee620c30e60a9420df23[m
+Author: Adriano Soriano <adriano.soriano@gruposkill.com.br>
+Date:   Fri May 24 09:01:02 2019 -0300
+
+    e.txt
+
+[33mcommit fc83e908475fc0f2c5aec4c7db44c562a096ece3[m
+Author: Adriano Soriano <adriano.soriano@gruposkill.com.br>
+Date:   Thu May 23 16:50:36 2019 -0300
+
+    adicionado d.txt
+
+[33mcommit ec8d510b66a69c03432896108aa8ec8b1c513768[m
+Author: Adriano Soriano <adriano.soriano@gruposkill.com.br>
+Date:   Thu May 23 16:30:38 2019 -0300
+
+    nome alterado
+
+[33mcommit b40e087749b657c95b1c7f925c0eced830f7692c[m
+Author: Adriano Soriano <adriano.soriano@gruposkill.com.br>
+Date:   Thu May 23 16:26:50 2019 -0300
+
+    Alterado c.txt
+
+[33mcommit 03b5fdc947caa6d3fd228bbfaf253795313ea4d1[m
+Author: Adriano Soriano <adriano.soriano@GRUPOSKILL205.LOCAL>
+Date:   Thu May 23 16:20:13 2019 -0300
+
+    c.txt criação
+
+[33mcommit 2f48eaba73431b1e0425963b1d6ab12a36ac1423[m
+Author: Adriano Soriano <adriano.soriano@GRUPOSKILL205.LOCAL>
+Date:   Thu May 23 16:15:47 2019 -0300
+
+    a.txt e b.txt criação
